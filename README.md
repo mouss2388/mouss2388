@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moustapha
 - 👀 I’m interested in video games, cinema, pop-culture, sport ...
-- 🌱 I’m currently learning Angular Framework
-- 💞️ I’m looking to collaborate on project dev full Stack
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Android
+- 💞️ I’m looking to collaborate on project dev Android
+- 📫 Who can reach me to mabdelouaha@gmail.com
 
